@@ -3,7 +3,7 @@
 #include <MFRC522.h>
 #include <DHT.h>
 #include "LiquidCrystal.h"
-#include "Seeed_Arduino_mbedtls/src/Seeed_mbedtls.h"
+#include "src/dependencies/Seeed_Arduino_mbedtls/src/Seeed_mbedtls.h"
 #include <WiFi.h>
 //#include <WiFiMulti.h>
 //#include <WiFiClientSecure.h>  //included WiFiClientSecure does not work!
