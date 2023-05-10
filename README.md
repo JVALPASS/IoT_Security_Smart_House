@@ -1,7 +1,5 @@
 # IoT_Security_Smart_House
 
-# IoT Security Project
-
 The importance of IoT security cannot be overstated, especially in the context of smart homes. The data collected by these devices, such as temperature and humidity levels, are critical pieces of information that could be used to determine the presence or absence of individuals in a home. Protecting the privacy and integrity of this data is of utmost importance, and our project takes significant steps to ensure that only authorized individuals have access to it.
 
 ## Project Description
